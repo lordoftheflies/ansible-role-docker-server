@@ -1,0 +1,4 @@
+---
+# roles/docker-server/vars/debian.yml
+
+docker-server_package_extension: 'rpm'
